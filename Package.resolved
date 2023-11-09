@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "rdr-swift-package-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Reenen-Du-Plessis/rdr-swift-package-core",
+      "state" : {
+        "revision" : "f1b73a26c456bc6c65cafe34cf3989da44d5124c",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
